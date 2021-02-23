@@ -1,5 +1,5 @@
 # Note
-* Iam just giving this project a go to familialize with openshift, credit to https://github.com/siamaksade/openshift-cd-demo/commits?author=siamaksade who completed thid project first
+* Iam just giving this project a go to familialize with openshift, credit to https://github.com/siamaksade/openshift-cd-demo/commits?author=siamaksade who completed this project first
 
 *For other versions of OpenShift, follow the instructions in the corresponding branch.
 
